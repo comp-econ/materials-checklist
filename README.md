@@ -1,6 +1,6 @@
 # materials-checklist
 
-Under the email address admin@comp-econ-soc.org, the Society for Computational Economics has a [Google Workspace account](https://accounts.google.com/Logout?continue=https://accounts.google.com/AccountChooser?continue=https://drive.google.com&Email=admin@comp-econ-soc.org)
+Under the email address admin@comp-econ-soc.org, the Society for Computational Economics has a [Google Workspace account](https://accounts.google.com/AddSession).
 
 Part of that account is a [Google Drive](https://drive.google.com/drive/u/0/folders/1zaKffdNtbWfJvhwRe1UGeSilmdlzy028) 
 on which we should permanently store information and records about the society.
